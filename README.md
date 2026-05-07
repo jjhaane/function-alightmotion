@@ -1,13 +1,8 @@
-# function-alightmotion
-# Generate PDF
-HTML(string=html_content).write_pdf("README_AlightMotion_API.pdf")
+![Alight motioin](https://industry.twic.pics/uploads/berita/detail/54143.jpg)
 
-# Generate README.md text
-readme_text = """
 # 🎬 Alight Motion API Integration
 
 Selamat datang di dokumentasi integrasi API Alight Motion oleh **Hanssoft**. Library ini memungkinkan developer untuk menghubungkan aplikasi atau bot mereka dengan fungsi internal Alight Motion.
-
 ## 🚀 Fitur
 - **Project Fetching**: Ambil data project secara real-time.
 - **XML Support**: Mendukung pemrosesan file XML Alight Motion.
